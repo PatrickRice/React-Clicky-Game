@@ -17,7 +17,7 @@ function Title(props) {
     <div className="row">
         <div className="col w-100">
         <header className="header">
-            <h1>React Clicky Game!</h1>
+            <h1>React Clicky Game - Simpsons Edition!</h1>
             <h2>Click on an image to earn points, but don't click on any image more than once!</h2>
         </header>
         </div>

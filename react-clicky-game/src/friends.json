@@ -1,86 +1,74 @@
 [
     {
       "id": 1,
-      "name": "SpongeBob",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
-      "occupation": "Fry Cook",
-      "location": "A Pineapple Under the Sea"
+      "name": "Homer Simpson",
+      "image": "https://assets.metrolatam.com/gt/2014/12/17/826da01660d8d22f0c1464d0dcc260ac-200x200.jpg",
+      "occupation": "Nuclear Safety Inspector"
     },
     {
       "id": 2,
-      "name": "Mr. Krabs",
-      "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-      "occupation": "Restaurant Owner",
-      "location": "A Giant Anchor"
+      "name": "Grandpa Simpson",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Abe_Simpson.png",
+      "occupation": "Retired"
     },
     {
       "id": 3,
-      "name": "Squidward",
-      "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-      "occupation": "Cashier",
-      "location": "An Easter Island Head"
+      "name": "Marge Simpson",
+      "image": "https://www.gannett-cdn.com/-mm-/895a20e02ebd8142afbe702954e748a5cddce50b/c=0-72-2744-2816/local/-/media/USATODAY/USATODAY/2014/03/28//1396019581000-c03-web-16.jpg?width=200&height=200&fit=crop",
+      "occupation": "Home Maker"
     },
     {
       "id": 4,
-      "name": "Dexter",
-      "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-      "occupation": "Boy Genius",
-      "location": "A Secret Laboratory"
+      "name": "Dr. Hibbert",
+      "image": "https://api.mbtidatabase.com/profile_images/4736.png",
+      "occupation": "Physician"
     },
     {
       "id": 5,
-      "name": "Courage",
-      "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-      "occupation": "A Cowardly Dog",
-      "location": "Nowhere, Kansas"
+      "name": "Bart Simpson",
+      "image": "https://img.sharetv.com/shows/characters/thumbnails/the_simpsons.bart_simpson.jpg",
+      "occupation": "Troublemaker"
     },
     {
       "id": 6,
-      "name": "Doug Funnie",
-      "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-      "occupation": "Student",
-      "location": "Bluffington"
+      "name": "Lisa Simpson",
+      "image": "https://static.vix.com/es/sites/default/files/styles/thumbnail/public/imj/l/lisa-simpson-modelo-a-seguir-0.jpg?itok=Uvb2GvJ_",
+      "occupation": "Brainiac"
     },
     {
       "id": 7,
-      "name": "Bugs Bunny",
-      "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
-      "occupation": "Looney Toon",
-      "location": "A Rabbit Burrow"
+      "name": "Whalen Smithers",
+      "image": "https://www.gannett-cdn.com/-mm-/6e05f9cff297ea3a7a357d8065819b608887682c/c=852-0-1974-1122/local/-/media/2016/10/15/Phoenix/Phoenix/636121328906829867-PNI-0517-harry-shearer-1.jpg?width=200&height=200&fit=crop",
+      "occupation": "Mr. Burns's Assistant"
     },
     {
       "id": 8,
-      "name": "Johnny Bravo",
-      "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
-      "occupation": "Ladies Man",
-      "location": "Aron City"
+      "name": "C.M. Burns",
+      "image": "http://www.gfsvic.com.au/uploads/6/9/0/5/69059245/1356302_orig.png",
+      "occupation": "Nuclear Power Plant Owner"
     },
     {
       "id": 9,
-      "name": "Tommy Pickles",
-      "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
-      "occupation": "Adventurer",
-      "location": "California"
+      "name": "Maggie Simpson",
+      "image": "https://www.topsimages.com/thumbs/Fr3s0en6QJQ6zv5V3FXtvs63-5K_dq646pORpPDQNMwxW7zBZpBQ6ij0EgnQApezemesUJkZPPa8uUX35Gizlw.jpg",
+      "occupation": "Pacifier Enthusiast"
     },
     {
       "id": 10,
-      "name": "Rocko",
-      "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
-      "occupation": "Cashier",
-      "location": "O-Town, California"
+      "name": "Moe Szylak",
+      "image": "https://i.pinimg.com/236x/c8/b4/3c/c8b43c8b40300a17edb589c6c666e8bd--los-simpsons-motivational-posters.jpg",
+      "occupation": "Bartender"
     },
     {
       "id": 11,
-      "name": "Captain Planet",
-      "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
-      "occupation": "Superhero",
-      "location": "Earth"
+      "name": "Barney Gumbel",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Barney_Gumble.png/220px-Barney_Gumble.png",
+      "occupation": "Barfly"
     },
     {
       "id": 12,
-      "name": "Ickis",
-      "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
-      "occupation": "Ahhhh! A Real Monster!",
-      "location": "Under a City Dump"
+      "name": "Ned Flanders",
+      "image": "https://i.pinimg.com/236x/3f/f9/69/3ff969ea3ad30fa65193b190a8606456--ned-flanders-movember.jpg",
+      "occupation": "Frien-diddly Neighbor-ino"
     }
   ]
